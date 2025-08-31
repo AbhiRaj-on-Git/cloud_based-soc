@@ -1,4 +1,4 @@
-# Welcome to My project page
+# Welcome to my project page
 
 <h3>Cloud-Based SOC Project</h3>
 
