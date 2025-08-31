@@ -105,6 +105,34 @@ Installing Mythic C2 Apollo using Powershell IEX
 
 <img src="https://raw.githubusercontent.com/AbhiRaj-on-Git/project-images/main/20%20installing%20appolo%20agent%20from%20Mythic%20C2%20on%20target%20machine.png" alt="Installing Apollo Agent from Mythic C2 on Target Machine" width="600" />
 
+Mythic C2 gets a call back from apollo installed device
+
+we can now execute the commands from here
+
+<img src="https://raw.githubusercontent.com/AbhiRaj-on-Git/project-images/main/21%20Mythic%20C2.png" alt="Mythic C2" width="600" />
+
+(Mythic C2 activities can be seen in the Elastic Dashboard)
+
+<img src="https://raw.githubusercontent.com/AbhiRaj-on-Git/project-images/main/23%20created%20alerts%20to%20track%20mythic%20c2%20activity.png" alt="Created Alerts to Track Mythic C2 Activity" width="600" />
+
+osTicket
+
+<h3>Ticketing software in a Security Operations Center (SOC) helps track, assign, and resolve security incidents by managing them as structured tickets</h3>
+
+<h3>osTicket is an open-source ticketing tool that SOC teams can use to log, prioritize, and monitor cybersecurity alerts and incident response workflows</h3>
+
+<img src="https://raw.githubusercontent.com/AbhiRaj-on-Git/project-images/main/24%20Installing%20os%20ticket%20for%20ticketing.png" alt="Installing osTicket for Ticketing" width="600" />
+
+Integrating Elastic Search Alerts with osTicket for handling Alerts using Webhook
+
+<img src="https://raw.githubusercontent.com/AbhiRaj-on-Git/project-images/main/25%20osTicket%20Elastic%20search%20integration%201.png" alt="osTicket Elastic Search Integration 1" width="600" />
+
+(using api key)
+
+<img src="https://raw.githubusercontent.com/AbhiRaj-on-Git/project-images/main/25%20osTicket%20Elastic%20search%20integration.png" alt="osTicket Elastic search integration" width="600" />
+
+
+
 
 
 
