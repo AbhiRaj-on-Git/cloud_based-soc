@@ -1,7 +1,5 @@
 # Welcome to My project page
 
-<a href="https://github.com/AbhiRaj-on-Git/phases_of_mythic_c2/tree/main"> Phases of Mythic C2 </>
-
 <h3>Cloud-Based SOC Project</h3>
 
 Built a SOC lab on Vultr cloud including Windows and Ubuntu machines integrated with Elastic SIEM. Configured dashboards and alerts for login activity (Windows RDP & SSH). Simulated attacks using Kali Linux (brute force and Mythic C2 Apollo via PowerShell IEX) and monitored logs in ELK. Integrated alerts with osTicket for automated incident ticketing.
@@ -63,5 +61,52 @@ Created a Dashboard in Elastic to Monitor Successful(Accepted) and Unsuccesful(F
 Created a Dashboard and a Table for Successful and Unsuccessful RDP Connection 
 
 <img src="https://raw.githubusercontent.com/AbhiRaj-on-Git/project-images/main/10%20Dashboard%20and%20table%20for%20RDP%20Failed%20and%20Successful%20Authentication%20in%20Elastic.png" alt="RDP Dashboard for Failed and Successful Authentication in Elastic" width="600" />
+
+## Mythic C2 
+
+<h3>A C2 (Command and Control) server is used by attackers to remotely control compromised systems, send commands, and exfiltrate data.</h3>
+
+<h3>Mythic C2 is an open-source, customizable command-and-control framework that allows red teamers and penetration testers to simulate real-world adversary operations.</h3>
+
+<a href="https://github.com/AbhiRaj-on-Git/phases_of_mythic_c2/tree/main" > Phases of a C2 server ? </a>
+
+Creating a server for Mythic C2
+
+<img src="https://raw.githubusercontent.com/AbhiRaj-on-Git/project-images/main/13%20server%20for%20Mythic%20C2.png" alt="Server for Mythic C2" width="600" />
+
+Mythic C2 installed
+
+<img src="https://raw.githubusercontent.com/AbhiRaj-on-Git/project-images/main/14%20installed%20Mythic%20C2%201.png" alt="Installed Mythic C2" width="600" />
+
+<img src="https://raw.githubusercontent.com/AbhiRaj-on-Git/project-images/main/14%20installed%20Mythic%20C2%202.png" alt="Installed Mythic C2 (Part 2)" width="600" />
+
+Installed Kali Linux on Attacker machine 
+
+<img src="https://raw.githubusercontent.com/AbhiRaj-on-Git/project-images/main/15%20%20Kali%20linux%20for%20RDP%20brute%20force.png" alt="Kali Linux for RDP Brute Force" width="600" />
+
+Using Hydra (Tool for brute forcing), brute-forcing into the Windows vulnerable machine
+
+<img src="https://raw.githubusercontent.com/AbhiRaj-on-Git/project-images/main/16%20hydra%20for%20brute%20force%20RDP%20(windows%20attack%20machine).png" alt="Hydra RDP Brute Force" width="600" />
+
+Successful brute-force attempt
+
+<img src="https://raw.githubusercontent.com/AbhiRaj-on-Git/project-images/main/17%20hydra%20brute%20force%20successful%20RDP%20(windows%20attack%20machine).png" alt="Hydra Brute-Force Successful RDP" width="600" />
+
+Logged into the Windows machine after successful brute force attempt
+
+<img src="https://raw.githubusercontent.com/AbhiRaj-on-Git/project-images/main/18%20logged%20into%20windows%20machine%20through%20RDP.png" alt="Logged into Windows Machine via RDP" width="600" />
+
+(All these C2 Activity can be seen in the Elastic Dashboard along with other details)
+
+<img src="https://raw.githubusercontent.com/AbhiRaj-on-Git/project-images/main/19%20Elastic%20Instance%20dashboard%20displays%20logged%20session.png" alt="Elastic Dashboard - Logged Session Display" width="600" />
+
+After logging into vulnerable windows machine through brute-forcing RDP connection
+Installing Mythic C2 Apollo using Powershell IEX
+
+<img src="https://raw.githubusercontent.com/AbhiRaj-on-Git/project-images/main/20%20installing%20appolo%20agent%20from%20Mythic%20C2%20on%20target%20machine.png" alt="Installing Apollo Agent from Mythic C2 on Target Machine" width="600" />
+
+
+
+
 
 
