@@ -44,11 +44,24 @@ Elastic agent
 
 <img src="https://raw.githubusercontent.com/AbhiRaj-on-Git/project-images/main/5.png" alt="Project Image 5" width="600" />
 
-Creating and SSH Server 
+Creating a SSH Server 
 
 <img src="https://raw.githubusercontent.com/AbhiRaj-on-Git/project-images/main/6%20Creating%20an%20SSH%20server.png" alt="Creating an SSH Server" width="600" />
 
 Installing Elastic Agent on SSH server
 
 <img src="https://raw.githubusercontent.com/AbhiRaj-on-Git/project-images/main/7%20Installing%20Elastic%20agent%20on%20SSH%20server.png" alt="Installing Elastic Agent on SSH Server" width="600" />
+
+Ingested SSH logs into Elastic
+
+<img src="https://raw.githubusercontent.com/AbhiRaj-on-Git/project-images/main/8%20Ingested%20SSH%20logs%20into%20elastic.png" alt="Ingested SSH Logs into Elastic" width="600" />
+
+Created a Dashboard in Elastic to Monitor Successful(Accepted) and Unsuccesful(Failed) login Authentication to the SSH server
+
+<img src="https://raw.githubusercontent.com/AbhiRaj-on-Git/project-images/main/9%20Dashboard%20to%20monitor%20SSH%20Authentication%20on%20SSH%20server.png" alt="Dashboard to Monitor SSH Authentication on SSH Server" width="600" />
+
+Created a Dashboard and a Table for Successful and Unsuccessful RDP Connection 
+
+<img src="https://raw.githubusercontent.com/AbhiRaj-on-Git/project-images/main/10%20Dashboard%20and%20table%20for%20RDP%20Failed%20and%20Successful%20Authentication%20in%20Elastic.png" alt="RDP Dashboard for Failed and Successful Authentication in Elastic" width="600" />
+
 
