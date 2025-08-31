@@ -131,6 +131,39 @@ Integrating Elastic Search Alerts with osTicket for handling Alerts using Webhoo
 
 <img src="https://raw.githubusercontent.com/AbhiRaj-on-Git/project-images/main/25%20osTicket%20Elastic%20search%20integration.png" alt="osTicket Elastic search integration" width="600" />
 
+Ticket is generated when an alert is generated
+
+<img src="https://raw.githubusercontent.com/AbhiRaj-on-Git/project-images/main/26%20Ticket%20is%20generated%20on%20elastic%20search%20alerts.png" alt="Ticket is generated on Elastic Search Alerts" width="600" />
+
+## Investigating Mythic C2 telemetries
+
+Mythic C2 telemetries can be viewed in the elastic 
+
+<img src="https://raw.githubusercontent.com/AbhiRaj-on-Git/project-images/main/27%20Investigating%20mythic%20c2.png" alt="Investigating Mythic C2" width="600" />
+
+Artifacts collected 
+
+<img src="https://raw.githubusercontent.com/AbhiRaj-on-Git/project-images/main/28%20recorded%20artifacts.png" alt="Recorded Artifacts" width="600" />
+
+## Elastic EDR 
+<h3>Elastic EDR (Endpoint Detection and Response) is a security solution from Elastic that monitors, detects, and responds to malicious activity on endpoints in real time.</h3>
+
+(Elastic EDR blocks the c2 when tried to execute on the Host)
+
+<img src="https://raw.githubusercontent.com/AbhiRaj-on-Git/project-images/main/27%20Using%20Elastic%20EDR.png" alt="Using Elastic EDR" width="600" />
+
+Also isolates the Host when affected 
+
+<img src="https://raw.githubusercontent.com/AbhiRaj-on-Git/project-images/main/29%20Elastic%20EDR%20completely%20isolates%20the%20host%20from%20connecting%20to%20network.png" alt="Elastic EDR Completely Isolates the Host from Connecting to Network" width="600" />
+
+<h2>Thank you</h2>
+
+Thank you for going through my project, this site consists some major parts of my project which demonstrates the servers and tools used and not the full project itself. 
+
+
+
+
+
 
 
 
