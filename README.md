@@ -158,7 +158,7 @@ Also isolates the Host when affected
 
 <h2>Thank you</h2>
 
-Thank you for going through my project, this site consists some major parts of my project which demonstrates the servers and tools used and not the full project itself. 
+Thank you for going through my project, this site consists some major parts of my project which demonstrates the servers and tools used and not the full project.
 
 
 
